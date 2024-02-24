@@ -3,9 +3,9 @@ export const APP_ID = `${process.env.NEXT_PUBLIC_APP_ID}`
 export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
-  title: 'AI文案',
+  title: 'AI文案APP',
   description: '输入一个词，生成一段话',
-  copyright: '唐道科技',
+  copyright: '唐道科技 http://www.tangdao.vip',
   privacy_policy: '',
   default_language: 'zh-Hans',
 }
