@@ -5,7 +5,7 @@ export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
   title: 'AI文案',
   description: '输入一个词，生成一段话',
-  copyright: '© 唐道科技 2024',
+  copyright: '唐道科技',
   privacy_policy: '',
   default_language: 'zh-Hans',
 }
